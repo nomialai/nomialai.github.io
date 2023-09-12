@@ -1,5 +1,3 @@
-# nomial.ai
-
 <details closed>
   <summary>Todo list</summary>
   <p>List of things to do</p>
