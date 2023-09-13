@@ -1,5 +1,5 @@
 <details closed>
-  <summary>Todo list</summary>
+  <summary>:computer: :bookmark_tabs: </summary>
   <p>List of things to do</p>
   <ol>
     <li>Have coffee ☕</li>
@@ -9,4 +9,4 @@
 </details>
 
 
-<sub> `nomial.ai` is proudly made in New Jersey <!-- The Garden State --> <sub>
+<sub> `nomial.ai` is proudly built in New Jersey <!-- The Garden State --> <sub>
