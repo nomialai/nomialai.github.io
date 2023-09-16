@@ -1,4 +1,4 @@
-![img](noun-database-2246478.png)
+![img](noun-database-2246478_small.png)
 <details closed>
   <summary>💻 📑 🧬 🗄️</summary>
   <p>List of things to do</p>
