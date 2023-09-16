@@ -11,3 +11,8 @@
 
 
 <sub> `nomial.ai` is proudly built in New Jersey <!-- The Garden State --> <sub>
+
+<!--
+Our most beautiful days: we haven’t seen yet.
+Nazım Hikmet
+-->
