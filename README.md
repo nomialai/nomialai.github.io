@@ -4,8 +4,8 @@
   <p>List of things to do</p>
   <ol>
     <li>☕️ Have coffee</li>
-    <li>📝 Write abstract(s)</li>
-    <li>⚙️ Make figures and diagrams</li>
+    <li>📝 Read and write abstracts, papers and code</li>
+    <li>⚙️ Build figures, diagrams, databases, models, APIs and notebooks</li>
     <li>✔️ git push</li>
   </ol>
 </details>
