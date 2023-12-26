@@ -1,6 +1,6 @@
 ![img](noun-database-2246478_small.png)
 <details closed>
-  <summary>💻 📑 🧬 🗄️</summary>
+  <summary>💻 📑 🧬 🗄️ 🦀 🐍 📊 </summary>
   <p>List of things to do</p>
   <ol>
     <li>☕️ Have coffee</li>
