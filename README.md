@@ -5,8 +5,9 @@
   <ol>
     <li>☕️ Have coffee</li>
     <li>📝 Read and write abstracts, papers and code</li>
-    <li>⚙️ Build figures, diagrams, databases, models, APIs and notebooks</li>
+    <li>⚙️ Build figures, documentation, diagrams, databases, models, APIs and notebooks</li>
     <li>✔️ git push</li>
+    <!-- sit on board seats: make very important company decisions -->
   </ol>
 </details>
 
