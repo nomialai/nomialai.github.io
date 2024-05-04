@@ -1,6 +1,6 @@
 ![img](noun-database-2246478_small.png)
 <details closed>
-  <summary>💻 📑 🧬 🗄️ 🦀 🐍 📊 </summary>
+  <summary>💻 📑 🧬 🗄️ 🦀 🐍 📊 🗺️ </summary>
   <p>List of things to do</p>
   <ol>
     <li>☕️ Have coffee</li>
@@ -12,7 +12,7 @@
 </details>
 
 
-<sub>`nomial.ai` is proudly and creatively built in New Jersey <!-- The Garden State --> <sub>
+<sub>`nomial.ai` is proudly and creatively built in New Jersey <!-- The Garden State --> <!-- for now, anyway --> <sub>
 
 <!--
 Our most beautiful days: we haven’t seen yet.
