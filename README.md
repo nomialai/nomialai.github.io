@@ -14,6 +14,9 @@
 
 <sub>`nomial.ai` is proudly and creatively built in New Jersey <!-- The Garden State --> <!-- for now, anyway --> <sub>
 
+<!-- nomial.ai is a cheminformatics and bioinformatics AI/ML company -->
+<!-- soon: chem.nomial.ai & bio.nomial.ai -->
+
 <!--
 Our most beautiful days: we haven’t seen yet.
 Nazım Hikmet
