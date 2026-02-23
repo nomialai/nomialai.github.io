@@ -10,7 +10,7 @@ List of things to do
     <!-- sit on board seats: make very important company decisions -->
 
 
-<sub>`nomial.ai` is proudly and creatively built in New Jersey (for now) <!-- The Garden State --> <!-- for now, anyway --> <sub>
+<sub>`nomial.ai` is proudly creative by nature, radical in optimism and honest in everything we do -> built in New Jersey (for now) <!-- The Garden State --> <!-- for now, anyway --> <sub>
 
 <!-- nomial.ai is a cheminformatics and bioinformatics AI/ML company -->
 <!-- soon: chem.nomial.ai & bio.nomial.ai -->
