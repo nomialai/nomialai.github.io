@@ -14,6 +14,8 @@ List of things to do
 
 <!-- nomial.ai is a cheminformatics and bioinformatics AI/ML company -->
 <!-- soon: chem.nomial.ai & bio.nomial.ai -->
+<!-- we absolutely love working extra hard on saturdays, one of the most productive days of the week, esp the mornings for meetings on electronic devices such as computers/laptops using electricity. we are an AI company afterall, we love electricity, all 7 days of the week. -->
+
 
 <!--
 📍 Our most beautiful days: we haven’t seen yet.
